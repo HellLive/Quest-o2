@@ -1,8 +1,3 @@
-
-''' implementção de uma Hashing'''
-'''Data:27/11/2018'''
-# -*- coding: utf-8 -*-
-#Author: Allan
 import os
 
 tam = 5
